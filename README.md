@@ -1,0 +1,1 @@
+# Global-Quality-of-Life-Analysis
