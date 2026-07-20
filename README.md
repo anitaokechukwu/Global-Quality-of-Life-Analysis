@@ -312,6 +312,17 @@ Quality_of_Life_Project/
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project is publicly available.
+
+**Source:** Hospital Billing Dataset (Kaggle)
+
+🔗 https://www.kaggle.com/datasets/...
+
+
+
+
 # 📬 Contact
 
 ## Anita Okechukwu
