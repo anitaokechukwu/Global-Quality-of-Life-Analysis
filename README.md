@@ -298,18 +298,32 @@ Quality_of_Life_Project/
 
 ---
 
-# 📷 Project Visualizations
 
-* Correlation Heatmap
-* Distribution Plots
-* Feature Importance
-* SHAP Summary Plot
-* SHAP Waterfall Plot
-* PCA Visualization
-* K-Means Cluster Visualization
-* Model Comparison
-* Actual vs Predicted Values
+## 📊 Key Visualizations
 
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+### Model Performance Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+### PCA Visualization
+
+![PCA Visualization](images/pca_visualization.png)
+
+### K-Means Clustering
+
+![K-Means Clusters](images/kmeans_clusters.png)
+
+### SHAP Explainability
+
+![SHAP Summary](images/shap_summary.png)
 ---
 
 ## 📂 Dataset
